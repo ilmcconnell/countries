@@ -1,3 +1,4 @@
 Population: 4,700,000
 Capital: Wellington
 Largest City: Auckland
+Highest Mountain: Aoraki / Mt Cook
